@@ -1,0 +1,3 @@
+cd "/Users/suvanshgupta/Desktop/C:C++/" && g++ template1.cpp -o template1 && "/Users/suvanshgupta/Desktop/C:C++/"template1
+cd "/Users/suvanshgupta/Desktop/C:C++/" && g++ template1.cpp -o template1 && "/Users/suvanshgupta/Desktop/C:C++/"template1
+cd "/Users/suvanshgupta/Desktop/C:C++/" && g++ template1.cpp -o template1 && "/Users/suvanshgupta/Desktop/C:C++/"template1
